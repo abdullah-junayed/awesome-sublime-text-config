@@ -63,7 +63,7 @@ If you don't want to install the theme through Package Control, you can install 
 
 #### Step 1: Clone or Download the Repository
 
-Clone this repository or download it as a ZIP file and extract it.
+Clone this repository `git clone https://github.com/abdullah-junayed/awesome-sublime-text-config` or download it as a ZIP file and extract it.
 
 #### Step 2: Open the Sublime Text Packages Folder
 
