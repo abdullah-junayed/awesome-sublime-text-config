@@ -460,11 +460,11 @@ This configuration is ideal for
 
 ---
 
-## 🧑‍💻 Contributors
+# 🧑‍💻 Contributors
 
 - [@Md. Abdullah Junayed](https://github.com/abdullah-junayed)
 
-## 🥰 Follow me
+# 🥰 Follow me
 
 - [@Github](https://github.com/abdullah-junayed)
 - [@Facebook](https://web.facebook.com/AbdullahJunayed771/)
